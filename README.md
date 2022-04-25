@@ -1,6 +1,6 @@
 **Olá** 🙋🏽‍♂️
 
-**Me chamo João**, 
+Me chamo João Lararo Campos Souza, 
 
 atualmente estou aprendando HTML, CSS e JS.
 
